@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"fun-is-fun",
+			"dad",
+			[
+				255,
+				80,
+				80
+			]
+		],
+		[
+			"boredom",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"killer",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekbave",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "bave's rapping session!",
+	"weekName": "weekbave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
